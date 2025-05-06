@@ -1,5 +1,6 @@
 @import "./fonts.css";
 @import './base.css';
+@import "./buttons.css";
 
 *,
 *::before,
@@ -13,7 +14,7 @@
 body {
     min-height: 100vh;
 
-    font-family: "manrope-regular", sans-serif;
+    font-family: "manrope-medium", sans-serif;
     font-size: 16px;
     line-height: 1.6;
 

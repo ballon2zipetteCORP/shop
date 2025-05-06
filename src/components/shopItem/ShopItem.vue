@@ -27,7 +27,7 @@
       <div class="colors">
         <h3>Couleurs disponibles</h3>
         <ul>
-          <li :class="colour" class="color" v-for="colour in item.colours" :key="colour" />
+          <li :class="colour" v-for="colour in item.colours" :key="colour" />
         </ul>
       </div>
 
